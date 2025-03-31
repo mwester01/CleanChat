@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CleanChat:jar">
+    <output-path>$USER_HOME$/OneDrive/Desktop/Custom Minecraft Plugins</output-path>
+    <root id="archive" name="CleanChat.jar">
+      <element id="module-output" name="CleanChat" />
+    </root>
+  </artifact>
+</component>

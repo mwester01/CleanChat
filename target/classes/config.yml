@@ -1,0 +1,72 @@
+# CleanChat Configuration
+################################################################################################
+#
+# Thank you for downloading CleanChat! To block IPs and URLs, set the following options:
+
+block_websites: true
+block_ips: true
+# Debug mode is meant for developers only, so if you are unsure about it leave it to false.
+# It simply adds more information to console server logs.
+debug_mode: false
+# Message shown to players when their message is blocked
+warning_message: "&cPlease watch your language!"
+
+# List of blocked words and variations
+blocked_words:
+  - "fuck"
+  - "ass "
+  - "asswipe"
+  - "assmouth"
+  - "asshole"
+  - "shit"
+  - "bitch"
+  - "asshole"
+  - "dick"
+  - "pussy"
+  - "cunt"
+  - "bastard"
+  - "damn"
+  - "hell"
+  - "fag"
+  - "faggot"
+  - "slut"
+  - "whore"
+  - "nigger"
+  - "nigga"
+  - "retard"
+  - "retarded"
+  - "twat"
+  - "cock"
+  - "cum"
+  - "dildo"
+  - "tit"
+  - "tits"
+  - "jizz"
+  - "wank"
+  - "jerkoff"
+  - "blowjob"
+  - "bs"
+  - "a$$"
+  - "a$$hole"
+  - "b!tch"
+  - "sh!t"
+  - "$hit"
+  - "f*ck"
+  - "f@ggot"
+  - "d@mn"
+  - "p@ssy"
+  - "n!gger"
+  - "n1gga"
+  - "r3tard"
+  - "@sshole"
+  - "fking"
+  - "fk"
+  - "fck"
+  - "sht"
+  - "bch"
+  - "sex"
+  - "s3x"
+  - "$ex"
+  - "porn"
+  - "p0rn"
+  - "porno"

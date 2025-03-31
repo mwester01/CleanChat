@@ -1,0 +1,11 @@
+name: CleanChat
+version: 1.0.1
+main: com.mwester.cleanchat.CleanChat
+api-version: 1.21
+author: [Mwester]
+description: Filters inappropriate language from the chat.
+
+permissions:
+  cleanchatfilter.bypass:
+    description: Allows a player to bypass the chat filter.
+    default: op
